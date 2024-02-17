@@ -1,3 +1,4 @@
+![My Banner](https://github.com/ritikkumar1106/ritikkumar1106/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ritik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
